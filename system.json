@@ -1,0 +1,11 @@
+{
+  "id": "tormenta3dt",
+  "title": "Tormenta 3D&T",
+  "description": "Sistema brasileiro de RPG inspirado em 3D&T e Tormenta.",
+  "version": "0.1.0",
+  "compatibility": { "minimum": "13", "verified": "13" },
+  "authors": [{ "name": "Projeto Tormenta 3D&T" }],
+  "esmodules": ["scripts/tormenta3dt.js"],
+  "styles": ["styles/tormenta3dt.css"],
+  "documentTypes": { "Actor": { "character": {}, "npc": {} } }
+}

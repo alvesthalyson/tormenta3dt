@@ -1,0 +1,4 @@
+.tormenta3dt.sheet.actor .window-content { background: #f4efe5; }
+.tormenta3dt.sheet.actor .t3dt-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; }
+.tormenta3dt.sheet.actor .t3dt-box { border: 1px solid #7b6a54; padding: 5px; background: #fffaf0; }
+.tormenta3dt.sheet.actor label { font-weight: 700; display: block; }
