@@ -4,8 +4,11 @@
   "description": "Sistema brasileiro de RPG inspirado em 3D&T e Tormenta.",
   "version": "0.1.0",
   "compatibility": { "minimum": "13", "verified": "13" },
-  "authors": [{ "name": "Projeto Tormenta 3D&T" }],
+  "authors": [{ "name": "alvesthalyson" }],
   "esmodules": ["scripts/tormenta3dt.js"],
   "styles": ["styles/tormenta3dt.css"],
-  "documentTypes": { "Actor": { "character": {}, "npc": {} } }
+  "documentTypes": { "Actor": { "character": {}, "npc": {} } },
+  "url": "https://github.com/alvesthalyson/tormenta3dt",
+  "manifest": "https://raw.githubusercontent.com/alvesthalyson/tormenta3dt/main/system.json",
+  "download": "https://github.com/alvesthalyson/tormenta3dt/archive/refs/heads/main.zip"
 }
